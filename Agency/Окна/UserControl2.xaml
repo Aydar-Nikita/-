@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="Agency.Окна.UserControl2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Agency.Окна"
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="1000" Background="Wheat" HorizontalAlignment="Stretch">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48*"/>
+            <RowDefinition Height="57*"/>
+            <RowDefinition Height="95*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="86*"/>
+            <ColumnDefinition Width="359*"/>
+            <ColumnDefinition Width="383*"/>
+            <ColumnDefinition Width="172*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.Column="1" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Покупатель:" VerticalAlignment="Top" Height="38" Width="339" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" IsEnabled="False" />
+        <TextBox Grid.Column="2" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Продавец:" VerticalAlignment="Top" Height="38" Width="363" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" IsEnabled="False"/>
+        <TextBlock Name="fio1" Grid.Column="1" HorizontalAlignment="Center" Margin="0,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="339" Height="40" FontSize="20" Grid.Row="1"/>
+        <TextBlock Name="fio2" Grid.Column="2" HorizontalAlignment="Center" Margin="0,12,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="363" Height="40" FontSize="20" Grid.Row="1"/>
+        <TextBlock Name="nedv" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="2" TextWrapping="Wrap"  VerticalAlignment="Center" Height="95" Width="363" FontSize="20" />
+        <TextBlock Name="stat" Grid.Column="3" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Height="42" Width="157" FontSize="25"/>
+        <Button Grid.Column="3" Content="Подтвердить сделку" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="33" Width="152" FontSize="15" Click="Button_Click"/>
+        <TextBox Name="number" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="52" Width="66" FontSize="30" HorizontalContentAlignment="Center" IsEnabled="False"/>
+
+
+
+    </Grid>
+</UserControl>
