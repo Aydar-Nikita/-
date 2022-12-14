@@ -1,0 +1,143 @@
+C:\Users\dewsa\source\repos\Agency\Agency\bin\Debug\Agency.exe.config
+C:\Users\dewsa\source\repos\Agency\Agency\bin\Debug\Agency.exe
+C:\Users\dewsa\source\repos\Agency\Agency\bin\Debug\Agency.pdb
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Agency.csproj.AssemblyReference.cache
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\App.g.cs
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Agency_MarkupCompile.cache
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Agency_MarkupCompile.lref
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Agency.g.resources
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Agency.Properties.Resources.resources
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Agency.csproj.GenerateResource.cache
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Agency.csproj.CoreCompileInputs.cache
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Agency.exe
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Agency.pdb
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\BuyApartaments.g.cs
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\Login.g.cs
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\MainMenu.g.cs
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\SellApartments.g.cs
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\UserCabinet.g.cs
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\UserRegistration.g.cs
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\BuyApartaments.baml
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\Login.baml
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\MainMenu.baml
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\SellApartments.baml
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\UserCabinet.baml
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\UserRegistration.baml
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\UserControl1.g.cs
+C:\Users\dewsa\source\repos\Agency\Agency\obj\Debug\Окна\UserControl1.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.csproj.AssemblyReference.cache
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.csproj.SuggestedBindingRedirects.cache
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\Login.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\MainMenu.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\SellApartments.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserCabinet.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserControl1.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserRegistration.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\App.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency_MarkupCompile.cache
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency_MarkupCompile.lref
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.exe
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.pdb
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Agency.exe.config
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Agency.exe
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Agency.pdb
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\Login.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\MainMenu.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\SellApartments.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserCabinet.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserControl1.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserRegistration.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.g.resources
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.Properties.Resources.resources
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.csproj.GenerateResource.cache
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.csproj.CoreCompileInputs.cache
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Google.Protobuf.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\MySql.Data.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Buffers.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Memory.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\ZstdNet.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Google.Protobuf.pdb
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Google.Protobuf.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\MySql.Data.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Buffers.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Memory.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.csproj.CopyComplete
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Agency.exe.config
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Agency.exe
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Agency.pdb
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Google.Protobuf.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\MySql.Data.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Buffers.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Memory.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\ZstdNet.dll
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Google.Protobuf.pdb
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Google.Protobuf.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\MySql.Data.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Buffers.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Memory.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.csproj.AssemblyReference.cache
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\BuyApartaments.g.cs
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\Login.g.cs
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\MainMenu.g.cs
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\SellApartments.g.cs
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserCabinet.g.cs
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserControl1.g.cs
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserRegistration.g.cs
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\App.g.cs
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency_MarkupCompile.cache
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency_MarkupCompile.lref
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\BuyApartaments.baml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\Login.baml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\MainMenu.baml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\SellApartments.baml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserCabinet.baml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserControl1.baml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserRegistration.baml
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.g.resources
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.Properties.Resources.resources
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.csproj.GenerateResource.cache
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.csproj.CoreCompileInputs.cache
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.csproj.CopyComplete
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.exe
+C:\Users\dewsa\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.pdb
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\lawyer.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserControl2.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\lawyer.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserControl2.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserControl11.g.cs
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Окна\UserControl11.baml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Syncfusion.OfficeChart.Base.dll
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Syncfusion.DocIO.Base.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Agency.exe.manifest
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\bin\Debug\Agency.application
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.exe.manifest
+C:\Users\sajfu\OneDrive\Рабочий стол\Agency\Agency\obj\Debug\Agency.application
